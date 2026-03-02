@@ -15,7 +15,9 @@ A React app to discover anime and manage your personal watchlist, powered by the
 - 📱 **Responsive** — Works on mobile, tablet & desktop
 
 ## Screenshot
-![alt text](<Screenshot 2026-02-14 093732.png>)
+![image can't loading!](<Screenshot 2026-02-14 093732.png>)
+
+**[🎮 Play the Live Demo Here!](https://anime-explorer-chi.vercel.app/)**
 
 ## 🛠️ Tech Stack
 
